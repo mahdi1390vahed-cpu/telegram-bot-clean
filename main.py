@@ -4,7 +4,7 @@ import threading
 from telegram.ext import Updater, MessageHandler, Filters
 
 # توکن ربات
-TOKEN = "8206984603:AAHVN3YkI4BsdiQRWT36bQpcwHjLkERcMK8"
+TOKEN = "8206984603:AAHMqWK64VufFWwyyF9c2kpvCTdULMN3Tr0"
 
 # آیدی عددی تلگرام خودت
 ADMIN_ID = 7574850147
